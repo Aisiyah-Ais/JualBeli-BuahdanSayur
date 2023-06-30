@@ -1,1 +1,5 @@
-﻿CKEDITOR.plugins.setLang("bidi","sv",{ltr:"Text riktning från vänster till höger",rtl:"Text riktning från höger till vänster"});
+﻿/*
+ Copyright (c) 2003-2018, CKSource - Frederico Knabben. All rights reserved.
+ For licensing, see LICENSE.md or https://ckeditor.com/legal/ckeditor-oss-license
+*/
+CKEDITOR.plugins.setLang("codesnippet","sv",{button:"Infoga kodsnutt",codeContents:"Kodinnehålll",emptySnippetError:"Innehåll krävs för kodsnutt",language:"Språk",title:"Kodsnutt",pathName:"kodsnutt"});
